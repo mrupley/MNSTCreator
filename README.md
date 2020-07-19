@@ -1,5 +1,6 @@
 # MNSTCreator
-Creator Tool for a monster battle type game
+Creator Tool for a monster battle type game. This tool is used to create new moves, new monsters, and new zones to battle in. It is meant as a tool to help a designer create the content of the game, export it as a JSON file, and then be input into the game through JSON. The tool is designed to be able to balance all abilities, create new monsters, link the art, and design new zones independently from the game.
+
 ## Sample images
 
 1. monsters tab:
